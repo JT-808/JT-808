@@ -1,6 +1,6 @@
 ## 🏄‍♂️ JT-808
 
-Hi. This file is under cunstruction ;)
+Hi. This file is under construction ;)
 
 ---
 
