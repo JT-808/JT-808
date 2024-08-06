@@ -1,7 +1,6 @@
 ## 🏄‍♂️ JT-808
 
-Hi. This file is under construction ;)
-
+Hi.
 ---
 
 ### 🧰 Languages and Tools
