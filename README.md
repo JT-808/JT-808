@@ -12,7 +12,7 @@ Hi.
 #
 
 ### 📊 Stats
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/JT-808/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 [comment]: <![JT GitHub stats](https://github-readme-stats.vercel.app/api?username=JT-808&show_icons=true&theme=gruvbox&layout=compact)>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JT-808&size_weight=0.5&count_weight=0.5&&layout=compact&theme=gruvbox)  
